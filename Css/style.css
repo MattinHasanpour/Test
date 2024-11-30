@@ -4,11 +4,12 @@
   font-family: "Courier New", Courier, monospace;
 }
 body {
-  background-color: aliceblue;
+  background-color: rgba(236, 224, 215, 0.678);
 }
 div {
-  background-color: blanchedalmond;
+  background: rgb(245, 199, 130);
 }
 p {
-  background-color: aquamarine;
+  background-color: red;
+  color: white;
 }
