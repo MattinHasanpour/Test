@@ -29,3 +29,46 @@ p {
   background-color: rgb(233, 233, 233);
   color: rgb(0, 0, 0);
 }
+.navbar {
+  position: sticky;
+  top: 0;
+  background-color: black;
+  color: #fff;
+  z-index: 2;
+  padding: 2px;
+  text-align: center;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.navbar-bottom {
+  position: fixed;
+  bottom: 0;
+  background-color: black;
+  color: #fff;
+  z-index: 2;
+  padding: 2px;
+  text-align: center;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.lorem-one {
+  color: rgb(57, 59, 59);
+  width: 300px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(221, 212, 212);
+  margin-bottom: 50px;
+  position: relative;
+  top: 90px;
+  left: 20px;
+  opacity: 0.5;
+}
+.lorem-tow {
+  color: azure;
+  width: 300px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(165, 130, 130);
+}
